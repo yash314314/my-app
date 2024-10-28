@@ -1,0 +1,1 @@
+export const BACKEND_URL = "https://my-app.rk7362113.workers.dev";

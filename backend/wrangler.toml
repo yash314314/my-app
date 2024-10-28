@@ -1,0 +1,7 @@
+name = "my-app"
+main = "src/index.ts"
+compatibility_date = "2024-10-12"
+compatibility_flags = [ "nodejs_compat" ]
+
+# [vars]
+DATABASE_URL="prisma://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcGlfa2V5IjoiMjcwM2VmZmUtYWM3Yi00MGYyLWE3ZjctOWFhMWJlMzE2ODUwIiwidGVuYW50X2lkIjoiNTNkOWJhYTIxMDBiOTA3MDAwODNkOTQxYzI1NmFjNDliZGJiNDg1MjhmNzdjNzQ4NzI5OTgwMzc1YjZkMWU4MCIsImludGVybmFsX3NlY3JldCI6IjAzNGU4MzE5LTA3ZTktNDk0YS1iMzgyLTAxNTI0Y2MyZGJkMSJ9.4aBcihsqWUz2vBNN9jO6pVdS22DiX8HpcVYRu8-F7TI"
